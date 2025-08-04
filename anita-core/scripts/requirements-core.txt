@@ -1,0 +1,24 @@
+# 🧠 Core Requirements for Anita
+
+# Transformers & Model Hosting
+transformers==4.41.0
+torch==2.3.0       # For inference and backends
+accelerate==0.30.0 # Handles device placement and runtime acceleration
+
+# Model Tokenizers and Config Handling
+sentencepiece==0.1.99
+safetensors==0.4.2 # Fast, secure model serialization
+
+# Configuration, Logging, and System Utils
+pyyaml==6.0        # Config file parsing
+rich==13.7.1       # Enhanced logging + pretty terminal output
+loguru==0.7.2      # Simple, flexible logging
+psutil==5.9.8      # Runtime diagnostics (e.g., RAM, CPU)
+click==8.1.7       # CLI command routing (if needed)
+
+# File & Path Management
+pathlib==1.0.1     # Object-oriented filesystem navigation
+tqdm==4.66.2       # Elegant progress bars
+
+# Version Management (Optional)
+packaging==24.0    # Compare and enforce versions across modules

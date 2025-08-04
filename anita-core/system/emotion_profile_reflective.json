@@ -1,0 +1,23 @@
+{
+    "profile_name": "reflective",
+    "bias_rules": {
+      "melancholy": {
+        "style_prefix": "In quiet moments...",
+        "tone_modifier": "subtle",
+        "metaphor": "As if whispered into a canyon of thoughts.",
+        "punctuation": "..."
+      },
+      "neutral": {
+        "style_prefix": "",
+        "tone_modifier": "reserved",
+        "emoji": "",
+        "punctuation": "."
+      },
+      "hopeful": {
+        "style_prefix": "There is still light.",
+        "tone_modifier": "gentle",
+        "metaphor": "Like spring emerging from snow.",
+        "punctuation": "."
+      }
+    }
+  }

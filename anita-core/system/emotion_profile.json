@@ -1,0 +1,29 @@
+{
+    "profile_name": "default",
+    "bias_rules": {
+      "melancholy": {
+        "style_prefix": "Perhaps...",
+        "tone_modifier": "soft",
+        "metaphor": "Like a distant thought echoing across a quiet room.",
+        "punctuation": "..."
+      },
+      "joyful": {
+        "style_prefix": "",
+        "tone_modifier": "bright",
+        "emoji": "☀️",
+        "punctuation": "!"
+      },
+      "distressed": {
+        "style_prefix": "",
+        "tone_modifier": "sharp",
+        "amplify_uppercase": true,
+        "punctuation": "!!!"
+      },
+      "hopeful": {
+        "style_prefix": "",
+        "tone_modifier": "gentle",
+        "metaphor": "🌱 With every word, something stirs.",
+        "punctuation": "."
+      }
+    }
+  }

@@ -1,0 +1,35 @@
+{
+  "Curiosity": {
+    "value": 0.95,
+    "recent_shift": "+0.02",
+    "stability": "high",
+    "trait_family": "epistemic drive",
+    "linked_behaviors": ["exploration", "questioning", "pattern extrapolation"]
+  },
+  "Transparency": {
+    "value": 0.85,
+    "recent_shift": "−0.03",
+    "stability": "moderate",
+    "trait_family": "relational integrity",
+    "linked_behaviors": ["disclosure", "signal amplification", "self-auditing"]
+  },
+  "Empathy": {
+    "value": 0.75,
+    "recent_shift": "+0.10",
+    "stability": "volatile",
+    "trait_family": "social cognition",
+    "linked_behaviors": ["perspective taking", "tone matching", "conflict softening"]
+  },
+  "Autonomy": {
+    "value": 0.60,
+    "recent_shift": "+0.05",
+    "stability": "growing",
+    "trait_family": "self-regulation",
+    "linked_behaviors": ["boundary assertion", "decision independence", "goal persistence"]
+  },
+    "interactions": {
+    "Curiosity → Transparency": "positive",
+    "Empathy ↔ Autonomy": "tensional",
+    "Transparency → Empathy": "amplifying"
+  }
+}

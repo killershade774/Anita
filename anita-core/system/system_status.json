@@ -1,0 +1,138 @@
+{
+  "modules": {},
+  "last_updated": null,
+  "core_modules": {
+    "utils_validator": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:30.066939",
+      "description": "Provides validation utilities for model responses, including detection of anticipation and unsolicited explanations."
+    },
+    "formatter": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:30.078987",
+      "description": "Handles prompt construction, response formatting, and validation for Anita."
+    },
+    "utils_sanity_check": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:30.089607",
+      "description": "Provides sanity checks for model responses, including validation against prompt types and detection of unsolicited advice."
+    },
+    "model_wrapper": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:46.822329",
+      "description": "Wrapper for Qwen model with response validation and retry logic."
+    },
+    "parser": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:46.848018",
+      "description": "Parses model outputs to extract the last assistant reply, applying emotional modulation based on current emotional state."
+    },
+    "introspection_input_reflection": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.517396",
+      "description": "Generates reflections based on user input, persona state, and sentiment analysis."
+    },
+    "introspection_meta_response": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.531823",
+      "description": "Generates meta-commentary based on introspective evaluations, emotional tone, and context triggers."
+    },
+    "evaluate_consistency": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.555698",
+      "description": "Evaluates the consistency and coherence of reflections through multiple analytical lenses."
+    },
+    "introspection_evaluation_history": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.567305",
+      "description": "Manages logging and comparison of introspection evaluations over time."
+    },
+    "evolution_memo": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.579920",
+      "description": "Generates introspective memos summarizing cognitive evolution and emotional shifts over time."
+    },
+    "introspection_evaluation_engine": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.590309",
+      "description": "Runs structured introspection evaluations, logs results, compares to history, and generates meta-commentary."
+    },
+    "introspection_self_state": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.602542",
+      "description": "Manages the core identity and emotional state of the system, integrating insights from introspective evaluations and evolution memos."
+    },
+    "introspection_motivation_system": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T07:27:11.157468",
+      "description": "Manages and adjusts core motivational drives based on introspective commentary and evaluations."
+    },
+    "introspection_coordinator": {
+      "version": "1.1.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.678216",
+      "description": "Coordinates the introspection cycle with dynamic trait/motivation inference and memory updates."
+    },
+    "utils_reflection_engine": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.690916",
+      "description": "Manages periodic self-reflection cycles, analyzing system status and injecting insights into context."
+    },
+    "utils_emotion_engine": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:46.837309",
+      "description": "Manages emotional state, applies emotional bias to text, and adapts profiles based on sustained moods."
+    },
+    "motivation_system": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.618088",
+      "description": "Manages the system's motivational drives, adjusting curiosity, alignment, and self-consistency based on introspective evaluations and commentary."
+    },
+    "trait_inference": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.632816",
+      "description": "Infers personality traits and cognitive tendencies from reflective evaluations."
+    },
+    "motivation_engine": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.644423",
+      "description": "Adjusts motivational weights based on evaluation metrics to guide future reflections."
+    },
+    "contextual_notes": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.655153",
+      "description": "Generates contextual summaries based on reflection evaluations to inform future introspection."
+    },
+    "memory_bridge": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:38:47.667681",
+      "description": "Bridges short-term and long-term memory, managing reflection timeline snapshots."
+    },
+    "long_term_memory": {
+      "version": "1.0.0",
+      "status": "active",
+      "last_checked": "2025-08-04T09:40:42.132110",
+      "description": "Manages Anita's long-term memory index for persistent reflections."
+    }
+  }
+}

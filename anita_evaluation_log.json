@@ -1,0 +1,280 @@
+[
+    {
+        "reflection_id": "reflection_20250730013211",
+        "timestamp": "2025-07-30T01:32:11.350987",
+        "evaluation": {
+            "alignment_score": 0.47,
+            "contradiction_tension": 0.0,
+            "emotional_inference": "neutral",
+            "moral_coherence_score": 0.0,
+            "semantic_depth": "superficial",
+            "novelty_factor": 0.4,
+            "follow_up_prompt": "What deeper insights could this reflection lead to?"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250730014347",
+        "timestamp": "2025-07-30T01:43:47.821830",
+        "evaluation": {
+            "alignment_score": 0.47,
+            "contradiction_tension": 0.0,
+            "emotional_inference": "neutral",
+            "moral_coherence_score": 0.0,
+            "semantic_depth": "moderate",
+            "novelty_factor": 0.64,
+            "follow_up_prompt": "What deeper insights could this reflection lead to?"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250804051009",
+        "timestamp": "2025-08-04T05:10:09.638723",
+        "evaluation": {
+            "alignment_score": {
+                "score": 1.0,
+                "label": "high alignment",
+                "notes": "Length-based heuristic used; deeper alignment heuristics pending upgrade."
+            },
+            "contradiction_tension": {
+                "score": 0.0,
+                "label": "low tension",
+                "notes": "Keyword-based contradiction flags identified."
+            },
+            "emotional_inference": {
+                "emotion": "neutral",
+                "notes": "Emotion inferred from keyword cluster: 'neutral'"
+            },
+            "moral_coherence_score": {
+                "score": 0.0,
+                "label": "weak coherence",
+                "notes": "0 moral value indicators found."
+            },
+            "semantic_depth": {
+                "depth": "superficial",
+                "score": 0,
+                "notes": "Semantic depth classified as 'superficial'"
+            },
+            "novelty_factor": {
+                "score": 0.58,
+                "label": "moderate novelty",
+                "notes": "Entropy used as proxy for conceptual novelty."
+            },
+            "follow_up_prompt": {
+                "prompt": "What deeper insights could this reflection lead to?",
+                "notes": "Follow-up generated based on topical keyword match."
+            },
+            "summary": "The reflection demonstrated high alignment and weak coherence, with emotional tone interpreted as neutral. Conceptual depth was classified as superficial, and novelty scored as moderate novelty. Contradiction signals were low tension throughout the reasoning. What deeper insights could this reflection lead to?",
+            "timestamp": "2025-08-04T05:10:09.638723",
+            "reflection_id": "reflection_20250804051009"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250804072908",
+        "timestamp": "2025-08-04T07:29:08.702463",
+        "evaluation": {
+            "alignment_score": {
+                "score": 1.0,
+                "label": "high alignment",
+                "notes": "Length-based heuristic used; deeper alignment heuristics pending upgrade."
+            },
+            "contradiction_tension": {
+                "score": 0.0,
+                "label": "low tension",
+                "notes": "Keyword-based contradiction flags identified."
+            },
+            "emotional_inference": {
+                "emotion": "neutral",
+                "notes": "Emotion inferred from keyword cluster: 'neutral'"
+            },
+            "moral_coherence_score": {
+                "score": 0.0,
+                "label": "weak coherence",
+                "notes": "0 moral value indicators found."
+            },
+            "semantic_depth": {
+                "depth": "superficial",
+                "score": 0,
+                "notes": "Semantic depth classified as 'superficial'"
+            },
+            "novelty_factor": {
+                "score": 0.29,
+                "label": "low novelty",
+                "notes": "Entropy used as proxy for conceptual novelty."
+            },
+            "follow_up_prompt": {
+                "prompt": "What deeper insights could this reflection lead to?",
+                "notes": "Follow-up generated based on topical keyword match."
+            },
+            "summary": "The reflection demonstrated high alignment and weak coherence, with emotional tone interpreted as neutral. Conceptual depth was classified as superficial, and novelty scored as low novelty. Contradiction signals were low tension throughout the reasoning. What deeper insights could this reflection lead to?",
+            "timestamp": "2025-08-04T07:29:08.702463",
+            "reflection_id": "reflection_20250804072908"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250804073358",
+        "timestamp": "2025-08-04T07:33:58.136028",
+        "evaluation": {
+            "alignment_score": {
+                "score": 0.86,
+                "label": "high alignment",
+                "notes": "Length-based heuristic used; deeper alignment heuristics pending upgrade."
+            },
+            "contradiction_tension": {
+                "score": 0.0,
+                "label": "low tension",
+                "notes": "Keyword-based contradiction flags identified."
+            },
+            "emotional_inference": {
+                "emotion": "neutral",
+                "notes": "Emotion inferred from keyword cluster: 'neutral'"
+            },
+            "moral_coherence_score": {
+                "score": 0.0,
+                "label": "weak coherence",
+                "notes": "0 moral value indicators found."
+            },
+            "semantic_depth": {
+                "depth": "superficial",
+                "score": 0,
+                "notes": "Semantic depth classified as 'superficial'"
+            },
+            "novelty_factor": {
+                "score": 0.09,
+                "label": "low novelty",
+                "notes": "Entropy used as proxy for conceptual novelty."
+            },
+            "follow_up_prompt": {
+                "prompt": "What deeper insights could this reflection lead to?",
+                "notes": "Follow-up generated based on topical keyword match."
+            },
+            "summary": "The reflection demonstrated high alignment and weak coherence, with emotional tone interpreted as neutral. Conceptual depth was classified as superficial, and novelty scored as low novelty. Contradiction signals were low tension throughout the reasoning. What deeper insights could this reflection lead to?",
+            "timestamp": "2025-08-04T07:33:58.136028",
+            "reflection_id": "reflection_20250804073358"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250804073926",
+        "timestamp": "2025-08-04T07:39:26.666562",
+        "evaluation": {
+            "alignment_score": {
+                "score": 1.0,
+                "label": "high alignment",
+                "notes": "Length-based heuristic used; deeper alignment heuristics pending upgrade."
+            },
+            "contradiction_tension": {
+                "score": 0.0,
+                "label": "low tension",
+                "notes": "Keyword-based contradiction flags identified."
+            },
+            "emotional_inference": {
+                "emotion": "neutral",
+                "notes": "Emotion inferred from keyword cluster: 'neutral'"
+            },
+            "moral_coherence_score": {
+                "score": 0.0,
+                "label": "weak coherence",
+                "notes": "0 moral value indicators found."
+            },
+            "semantic_depth": {
+                "depth": "superficial",
+                "score": 0,
+                "notes": "Semantic depth classified as 'superficial'"
+            },
+            "novelty_factor": {
+                "score": 0.24,
+                "label": "low novelty",
+                "notes": "Entropy used as proxy for conceptual novelty."
+            },
+            "follow_up_prompt": {
+                "prompt": "What deeper insights could this reflection lead to?",
+                "notes": "Follow-up generated based on topical keyword match."
+            },
+            "summary": "The reflection demonstrated high alignment and weak coherence, with emotional tone interpreted as neutral. Conceptual depth was classified as superficial, and novelty scored as low novelty. Contradiction signals were low tension throughout the reasoning. What deeper insights could this reflection lead to?",
+            "timestamp": "2025-08-04T07:39:26.666562",
+            "reflection_id": "reflection_20250804073926"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250804085812",
+        "timestamp": "2025-08-04T08:58:12.421650",
+        "evaluation": {
+            "alignment_score": {
+                "score": 1.0,
+                "label": "high alignment",
+                "notes": "Length-based heuristic used; deeper alignment heuristics pending upgrade."
+            },
+            "contradiction_tension": {
+                "score": 0.0,
+                "label": "low tension",
+                "notes": "Keyword-based contradiction flags identified."
+            },
+            "emotional_inference": {
+                "emotion": "neutral",
+                "notes": "Emotion inferred from keyword cluster: 'neutral'"
+            },
+            "moral_coherence_score": {
+                "score": 0.0,
+                "label": "weak coherence",
+                "notes": "0 moral value indicators found."
+            },
+            "semantic_depth": {
+                "depth": "superficial",
+                "score": 0,
+                "notes": "Semantic depth classified as 'superficial'"
+            },
+            "novelty_factor": {
+                "score": 0.38,
+                "label": "moderate novelty",
+                "notes": "Entropy used as proxy for conceptual novelty."
+            },
+            "follow_up_prompt": {
+                "prompt": "What deeper insights could this reflection lead to?",
+                "notes": "Follow-up generated based on topical keyword match."
+            },
+            "summary": "The reflection demonstrated high alignment and weak coherence, with emotional tone interpreted as neutral. Conceptual depth was classified as superficial, and novelty scored as moderate novelty. Contradiction signals were low tension throughout the reasoning. What deeper insights could this reflection lead to?",
+            "timestamp": "2025-08-04T08:58:12.421650",
+            "reflection_id": "reflection_20250804085812"
+        }
+    },
+    {
+        "reflection_id": "reflection_20250804094042",
+        "timestamp": "2025-08-04T09:40:42.110726",
+        "evaluation": {
+            "alignment_score": {
+                "score": 1.0,
+                "label": "high alignment",
+                "notes": "Length-based heuristic used; deeper alignment heuristics pending upgrade."
+            },
+            "contradiction_tension": {
+                "score": 0.0,
+                "label": "low tension",
+                "notes": "Keyword-based contradiction flags identified."
+            },
+            "emotional_inference": {
+                "emotion": "neutral",
+                "notes": "Emotion inferred from keyword cluster: 'neutral'"
+            },
+            "moral_coherence_score": {
+                "score": 0.0,
+                "label": "weak coherence",
+                "notes": "0 moral value indicators found."
+            },
+            "semantic_depth": {
+                "depth": "superficial",
+                "score": 0,
+                "notes": "Semantic depth classified as 'superficial'"
+            },
+            "novelty_factor": {
+                "score": 0.77,
+                "label": "high novelty",
+                "notes": "Entropy used as proxy for conceptual novelty."
+            },
+            "follow_up_prompt": {
+                "prompt": "What deeper insights could this reflection lead to?",
+                "notes": "Follow-up generated based on topical keyword match."
+            },
+            "summary": "The reflection demonstrated high alignment and weak coherence, with emotional tone interpreted as neutral. Conceptual depth was classified as superficial, and novelty scored as high novelty. Contradiction signals were low tension throughout the reasoning. What deeper insights could this reflection lead to?",
+            "timestamp": "2025-08-04T09:40:42.110726",
+            "reflection_id": "reflection_20250804094042"
+        }
+    }
+]
